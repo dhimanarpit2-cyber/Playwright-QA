@@ -1,0 +1,543 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "Arpit Dhiman, QA Automation Engineer" [ref=e6] [cursor=pointer]:
+          - /url: "#overview"
+          - img "Arpit Dhiman - QA Automation Engineer" [ref=e8]
+          - generic [ref=e9]:
+            - strong [ref=e10]: Arpit Dhiman
+            - generic [ref=e11]: QA Automation Engineer
+        - navigation "Primary navigation" [ref=e12]:
+          - link "Overview" [ref=e13] [cursor=pointer]:
+            - /url: "#overview"
+          - link "About" [ref=e14] [cursor=pointer]:
+            - /url: "#about"
+          - link "Skills" [ref=e15] [cursor=pointer]:
+            - /url: "#skills"
+          - link "Projects" [ref=e16] [cursor=pointer]:
+            - /url: "#projects"
+          - link "Timeline" [ref=e17] [cursor=pointer]:
+            - /url: "#timeline"
+          - link "Contact" [ref=e18] [cursor=pointer]:
+            - /url: "#contact"
+        - paragraph [ref=e19]:
+          - text: Test
+          - generic [ref=e20]: /
+          - text: Automate
+          - generic [ref=e21]: /
+          - text: Improve
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - paragraph [ref=e25]: Arpit Dhiman • QA Automation • Quality Assurance
+          - heading "Arpit Dhiman – QA Automation & Quality Assurance Engineer. Test Today, A Smoother Tomorrow." [level=1] [ref=e26]:
+            - generic [ref=e27]: Arpit Dhiman – QA Automation & Quality Assurance Engineer.
+            - generic [ref=e28]: Test Today,
+            - generic [ref=e29]: A Smoother Tomorrow.
+          - paragraph [ref=e30]: Hi, I'm Arpit Dhiman, a Quality Assurance Engineer delivering high-reliability web applications, comprehensive manual testing, and automated end-to-end regression suites with Playwright.
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - complementary [ref=e33]:
+              - article [ref=e34]:
+                - generic [ref=e38]:
+                  - paragraph [ref=e39]: 10+
+                  - paragraph [ref=e40]: Project tested
+                  - paragraph [ref=e42]: Web applications across diverse domains
+              - article [ref=e43]:
+                - generic [ref=e47]:
+                  - paragraph [ref=e48]: 1000+
+                  - paragraph [ref=e49]: Test cases executed
+                  - paragraph [ref=e51]: Functional, UI and regression testing for real-world products
+            - generic [ref=e54]:
+              - generic [ref=e60]:
+                - generic [ref=e61]:
+                  - generic [ref=e62]: Staff identificationQA automation pass
+                  - generic [ref=e64]: ✓ Verified
+                - generic [ref=e65]:
+                  - generic [ref=e66]:
+                    - img "Arpit Dhiman - Quality Assurance and QA Automation Engineer" [ref=e68]
+                    - generic [ref=e69]:
+                      - paragraph [ref=e70]: Name
+                      - paragraph [ref=e71]: Arpit Dhiman
+                      - paragraph [ref=e72]: QA Automation Engineer
+                      - paragraph [ref=e73]: ID · AD-QA-98665
+                  - generic [ref=e74]:
+                    - paragraph [ref=e75]: ✉ dhimanarpit2@gmail.mail
+                    - paragraph [ref=e76]: ⌕ +91 89686 28515
+                  - generic [ref=e78]:
+                    - generic [ref=e79]: Issue 2023 · Active
+                    - generic [ref=e80]: ● Valid
+              - generic: QA Automation ↗
+              - generic:
+                - generic:
+                  - generic [aria-hidden]: ↙
+                  - text: Playwright
+              - generic: Better Products ↗
+            - complementary [ref=e81]:
+              - article [ref=e82]:
+                - generic [ref=e87]:
+                  - paragraph [ref=e88]: Manual + API
+                  - paragraph [ref=e89]: Testing
+                  - paragraph [ref=e91]: End-to-end testing across web, API and CRM applications
+              - article [ref=e92]:
+                - generic [ref=e97]:
+                  - paragraph [ref=e98]: 99%
+                  - paragraph [ref=e99]: Quality focus
+                  - paragraph [ref=e101]: Finding issues before your users do
+          - generic [ref=e102]:
+            - link "Explore my work" [ref=e103] [cursor=pointer]:
+              - /url: "#projects"
+            - link "Get in touch" [ref=e106] [cursor=pointer]:
+              - /url: "#contact"
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - paragraph [ref=e111]: About me
+          - heading "About Arpit Dhiman QA Expertise – A QA Engineer Who Cares About Better Products." [level=2] [ref=e113]:
+            - generic [ref=e114]: About Arpit Dhiman QA Expertise –
+            - text: A QA Engineer Who Cares About Better Products.
+          - paragraph [ref=e115]: Curious • Detail Oriented • User Focused
+          - paragraph [ref=e116]: I'm Arpit Dhiman, a detail-oriented QA Automation & Quality Assurance Engineer with hands-on experience in manual testing, API validation using Postman, and automated browser testing using Playwright.
+          - paragraph [ref=e117]: I approach testing with curiosity, structure, and a strong focus on quality and end-user experience.
+          - link "Download Resume" [ref=e118] [cursor=pointer]:
+            - /url: /assets/resume/Arpit_Dhiman_Resume.pdf
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - paragraph: Quality DrivesBetter Experiences
+            - generic [ref=e125]: “Better Products Happier Users
+            - img "Arpit Dhiman - Quality Assurance Specialist and QA Automation Engineer Portrait" [ref=e127]
+          - list [ref=e128]:
+            - listitem [ref=e129]:
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: B.Tech in Computer Science and Technology
+                - paragraph [ref=e136]: Strong foundation in software engineering principles
+            - listitem [ref=e137]:
+              - generic [ref=e142]:
+                - paragraph [ref=e143]: Software Tester
+                - paragraph [ref=e144]: Tech2globe Web Solutions LLP
+            - listitem [ref=e145]:
+              - generic [ref=e150]:
+                - paragraph [ref=e151]: Kangra, India
+                - paragraph [ref=e152]: Open to remote & hybrid roles
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - paragraph [ref=e156]: My QA philosophy
+          - heading "How I Protect Your Releases" [level=2] [ref=e157]: How I ProtectYour Releases
+          - paragraph [ref=e158]: Testing is more than checking boxes. It's understanding how real users interact with software and preventing costly failures.
+        - generic [ref=e159]:
+          - article [ref=e160]:
+            - heading "Automate the Repetitive" [level=3] [ref=e165]
+            - paragraph [ref=e166]: Use Playwright to handle regression checks and save valuable time.
+          - article [ref=e167]:
+            - heading "Test Like a Real User" [level=3] [ref=e172]
+            - paragraph [ref=e173]: Focus on usability, edge cases and real-world scenarios.
+          - article [ref=e174]:
+            - heading "Report with Clarity" [level=3] [ref=e185]
+            - paragraph [ref=e186]: Detailed steps, evidence and logs so issues get fixed, not just filed.
+          - article [ref=e187]:
+            - heading "Own the Outcome" [level=3] [ref=e192]
+            - paragraph [ref=e193]: Verify fixes and ensure better, more reliable releases.
+    - region [ref=e194]:
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - paragraph [ref=e198]: Skills & tools
+            - heading "Core QA & Automation Skills & Tools" [level=2] [ref=e200]
+            - paragraph [ref=e201]: Specialized in Playwright automation, Postman API testing, manual exploratory testing, and OWASP ZAP security verification.
+          - generic [ref=e202]:
+            - button "Previous tool" [ref=e203]
+            - button "Next tool" [ref=e206]
+        - generic [ref=e211]:
+          - button "GitHub" [ref=e212]
+          - button "Microsoft Excel Excel" [ref=e218]:
+            - img "Microsoft Excel" [ref=e221]
+            - generic [ref=e222]: Excel
+          - button "Jira" [ref=e513]
+          - button "JMeter" [ref=e519]
+          - button "Postman" [ref=e525]
+          - button "Python" [ref=e531]
+          - button "Pytest" [ref=e537]
+          - button "API Testing" [ref=e543]
+          - button "Manual Testing" [ref=e258]
+          - button "OWASP ZAP" [ref=e264]
+          - button "Visual Studio Code VS Code" [ref=e270]:
+            - img "Visual Studio Code" [ref=e273]
+            - generic [ref=e274]: VS Code
+    - region [ref=e275]:
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - generic [ref=e278]:
+            - paragraph [ref=e279]: Projects
+            - heading "Featured QA Projects & Testing Frameworks" [level=2] [ref=e281]
+          - generic [ref=e282]:
+            - paragraph [ref=e283]: QA and delivery work across business services, D2C, consulting, manufacturing, wellness, trade, and telecom — with Playwright automation for links, forms, and repeatable regression.
+            - paragraph [ref=e284]: "Every engagement covered functional flows and non-functional quality: responsiveness, performance, and reliability before launch."
+        - generic [ref=e285]:
+          - button "Previous projects" [ref=e286]
+          - button "Next projects" [ref=e289]
+        - generic [ref=e549]:
+          - generic [ref=e552]:
+            - heading "Fibre Optics Ltd." [level=3] [ref=e553]
+            - paragraph [ref=e554]: QA & PM · Telecom / Infrastructure
+            - paragraph [ref=e555]: QA plus project coordination on a large site. Efficient Playwright cycles; functional and performance testing with stakeholder-to-dev follow-through.
+          - generic [ref=e558]:
+            - heading "Biometric App" [level=3] [ref=e559]
+            - paragraph [ref=e560]: Development · Internal Tools · Cursor
+            - paragraph [ref=e561]: Web app for biometric attendance and automated HOD reports — reliable data people can act on, not just record.
+          - generic [ref=e564]:
+            - heading "Meeting Portal" [level=3] [ref=e565]
+            - paragraph [ref=e566]: Development · Internal Tools · Cursor
+            - paragraph [ref=e567]: Conference room booking with automatic confirmation emails — simple flow, no double-booking or missed reservations.
+        - generic [ref=e312]:
+          - button "Go to project slide 1" [ref=e313]
+          - button "Go to project slide 2" [ref=e314]
+          - button "Go to project slide 3" [ref=e315]
+          - button "Go to project slide 4" [ref=e316]
+          - button "Go to project slide 5" [ref=e317]
+    - region [ref=e318]:
+      - generic [ref=e321]:
+        - generic [ref=e322]:
+          - paragraph [ref=e323]: Experience
+          - heading "Quality Assurance & Testing Journey" [level=2] [ref=e325]
+          - paragraph [ref=e326]: A scroll-driven look at my QA career path — from foundational manual and exploratory testing to full test automation engineering with Playwright.
+        - generic [ref=e328]:
+          - article [ref=e331]:
+            - generic [ref=e332]:
+              - generic [ref=e333]:
+                - paragraph [ref=e334]: 2015 – 2017
+                - heading "Software Tester" [level=3] [ref=e335]
+                - paragraph [ref=e336]: Datagrape.ai
+              - paragraph [aria-hidden]: 2015–17
+            - list [ref=e337]:
+              - listitem [ref=e338]: "Full-cycle testing: test cases, execution, and defect reporting"
+              - listitem [ref=e340]: Test strategies across applications; close collaboration with developers on fixes
+          - article [ref=e344]:
+            - generic [ref=e345]:
+              - generic [ref=e346]:
+                - paragraph [ref=e347]: 2018 – 2024
+                - heading "Self Assessment & Learning" [level=3] [ref=e348]
+                - paragraph [ref=e349]: Independent professional development
+              - paragraph [aria-hidden]: 2018–24
+            - list [ref=e350]:
+              - listitem [ref=e351]: Manual, API, and regression testing through structured self-study
+              - listitem [ref=e353]: Playwright automation and repeatable suites for faster feedback
+              - listitem [ref=e355]: Stronger documentation, defect reporting, and QA workflows
+          - article [ref=e359]:
+            - generic [ref=e360]:
+              - generic [ref=e361]:
+                - paragraph [ref=e362]: May 2025 – September 2026
+                - heading "Software Tester" [level=3] [ref=e363]
+                - paragraph [ref=e364]: Tech2Globe Web Solutions LLP
+                - paragraph [ref=e365]: Noida, India
+              - paragraph [aria-hidden]: "2025"
+            - list [ref=e366]:
+              - listitem [ref=e367]: Functional specs for dev and QA teams; detailed test and performance reports
+              - listitem [ref=e369]: Cross-functional communication to keep delivery clear and on track
+              - listitem [ref=e371]: Testing infrastructure built and maintained for efficient, repeatable runs
+        - generic [ref=e373]:
+          - generic [ref=e374]:
+            - generic [ref=e375]: 2015–17
+            - generic [ref=e378]: 2018–24
+            - generic [ref=e381]: "2025"
+          - paragraph [ref=e384]: Scroll to move through the timeline
+    - generic [ref=e387]:
+      - generic [ref=e388]:
+        - paragraph [ref=e389]: Contact me
+        - heading "Get in Touch Arpit Dhiman Let's Work Together." [level=2] [ref=e391]:
+          - generic [ref=e392]: Get in Touch
+          - generic [ref=e393]: Arpit Dhiman
+          - generic [ref=e394]: Let's Work Together.
+        - paragraph [ref=e395]: Have a project in mind, a question, or just want to say hello? I'd love to hear from you. I usually reply within 24 hours.
+        - generic [ref=e396]:
+          - link [ref=e398] [cursor=pointer]:
+            - /url: tel:+918968628515
+            - generic [ref=e402]:
+              - paragraph [ref=e403]: Phone
+              - paragraph [ref=e404]: +91 89686 28515
+              - paragraph [ref=e405]: Feel free to call or WhatsApp
+          - link [ref=e407] [cursor=pointer]:
+            - /url: mailto:dhimanarpit2@gmail.com
+            - generic [ref=e412]:
+              - paragraph [ref=e413]: Email
+              - paragraph [ref=e414]: dhimanarpit2@gmail.com
+              - paragraph [ref=e415]: I usually reply within 24 hours
+          - generic [ref=e422]:
+            - paragraph [ref=e423]: Location
+            - paragraph [ref=e424]: Kangra, India
+            - paragraph [ref=e425]: Open to remote & hybrid opportunities
+        - paragraph [ref=e427]: Looking forward to connecting!
+      - generic [ref=e430]:
+        - paragraph: Better ProductsHappier Users
+        - paragraph: Himachal PradeshIndia
+        - generic [ref=e431]:
+          - paragraph [ref=e432]: Send a message
+          - generic [ref=e434]:
+            - generic [aria-hidden] [ref=e435]:
+              - text: Company
+              - textbox [ref=e436]
+            - generic [ref=e437]:
+              - generic [ref=e438]: Full name *
+              - textbox "Full name" [ref=e440]:
+                - /placeholder: Your full name
+            - generic [ref=e441]:
+              - generic [ref=e442]: Email address *
+              - textbox "Email address" [ref=e444]:
+                - /placeholder: you@example.com
+            - generic [ref=e445]:
+              - generic [ref=e446]: Phone number
+              - generic [ref=e447]:
+                - combobox "Country code" [ref=e451]:
+                  - option "India (+91)" [selected]
+                  - option "──────────" [disabled]
+                  - option "Afghanistan (+93)"
+                  - option "Albania (+355)"
+                  - option "Algeria (+213)"
+                  - option "Andorra (+376)"
+                  - option "Angola (+244)"
+                  - option "Argentina (+54)"
+                  - option "Armenia (+374)"
+                  - option "Aruba (+297)"
+                  - option "Ascension Island (+247)"
+                  - option "Australia (+61)"
+                  - option "Austria (+43)"
+                  - option "Azerbaijan (+994)"
+                  - option "Bahrain (+973)"
+                  - option "Bangladesh (+880)"
+                  - option "Belarus (+375)"
+                  - option "Belgium (+32)"
+                  - option "Belize (+501)"
+                  - option "Benin (+229)"
+                  - option "Bhutan (+975)"
+                  - option "Bolivia (+591)"
+                  - option "Bosnia and Herzegovina (+387)"
+                  - option "Botswana (+267)"
+                  - option "Brazil (+55)"
+                  - option "British Indian Ocean Territory (+246)"
+                  - option "Brunei Darussalam (+673)"
+                  - option "Bulgaria (+359)"
+                  - option "Burkina Faso (+226)"
+                  - option "Burundi (+257)"
+                  - option "Cambodia (+855)"
+                  - option "Cameroon (+237)"
+                  - option "Canada (+1)"
+                  - option "Cabo Verde (+238)"
+                  - option "Central African Republic (+236)"
+                  - option "Chad (+235)"
+                  - option "Chile (+56)"
+                  - option "China (+86)"
+                  - option "Colombia (+57)"
+                  - option "Comoros (+269)"
+                  - option "Congo (+242)"
+                  - option "Congo, Democratic Republic of the (+243)"
+                  - option "Cook Islands (+682)"
+                  - option "Costa Rica (+506)"
+                  - option "Croatia (+385)"
+                  - option "Cuba (+53)"
+                  - option "Cyprus (+357)"
+                  - option "Czechia (+420)"
+                  - option "Denmark (+45)"
+                  - option "Djibouti (+253)"
+                  - option "Ecuador (+593)"
+                  - option "Egypt (+20)"
+                  - option "El Salvador (+503)"
+                  - option "Equatorial Guinea (+240)"
+                  - option "Eritrea (+291)"
+                  - option "Estonia (+372)"
+                  - option "Eswatini (+268)"
+                  - option "Ethiopia (+251)"
+                  - option "Falkland Islands (Malvinas) (+500)"
+                  - option "Fiji (+679)"
+                  - option "Finland (+358)"
+                  - option "France (+33)"
+                  - option "French Guiana (+594)"
+                  - option "French Polynesia (+689)"
+                  - option "Gabon (+241)"
+                  - option "Gambia (+220)"
+                  - option "Georgia (+995)"
+                  - option "Germany (+49)"
+                  - option "Ghana (+233)"
+                  - option "Gibraltar (+350)"
+                  - option "Greece (+30)"
+                  - option "Greenland (+299)"
+                  - option "Guadeloupe (+590)"
+                  - option "Guatemala (+502)"
+                  - option "Guinea (+224)"
+                  - option "Guinea-Bissau (+245)"
+                  - option "Guyana (+592)"
+                  - option "Haiti (+509)"
+                  - option "Honduras (+504)"
+                  - option "Hong Kong (+852)"
+                  - option "Hungary (+36)"
+                  - option "Iceland (+354)"
+                  - option "Indonesia (+62)"
+                  - option "Iran (+98)"
+                  - option "Iraq (+964)"
+                  - option "Ireland (+353)"
+                  - option "Israel (+972)"
+                  - option "Italy (+39)"
+                  - option "Ivory Coast (+225)"
+                  - option "Jamaica (+1)"
+                  - option "Japan (+81)"
+                  - option "Jordan (+962)"
+                  - option "Kazakhstan (+7)"
+                  - option "Kenya (+254)"
+                  - option "Kiribati (+686)"
+                  - option "Korea, North (+850)"
+                  - option "Korea, South (+82)"
+                  - option "Kosovo (+383)"
+                  - option "Kuwait (+965)"
+                  - option "Kyrgyzstan (+996)"
+                  - option "Laos (+856)"
+                  - option "Latvia (+371)"
+                  - option "Lebanon (+961)"
+                  - option "Lesotho (+266)"
+                  - option "Liberia (+231)"
+                  - option "Libya (+218)"
+                  - option "Liechtenstein (+423)"
+                  - option "Lithuania (+370)"
+                  - option "Luxembourg (+352)"
+                  - option "Macao (+853)"
+                  - option "Madagascar (+261)"
+                  - option "Malawi (+265)"
+                  - option "Malaysia (+60)"
+                  - option "Maldives (+960)"
+                  - option "Mali (+223)"
+                  - option "Malta (+356)"
+                  - option "Marshall Islands (+692)"
+                  - option "Martinique (+596)"
+                  - option "Mauritania (+222)"
+                  - option "Mauritius (+230)"
+                  - option "Mayotte (+262)"
+                  - option "Mexico (+52)"
+                  - option "Micronesia (+691)"
+                  - option "Moldova (+373)"
+                  - option "Monaco (+377)"
+                  - option "Mongolia (+976)"
+                  - option "Montenegro (+382)"
+                  - option "Morocco (+212)"
+                  - option "Mozambique (+258)"
+                  - option "Myanmar (+95)"
+                  - option "Namibia (+264)"
+                  - option "Nauru (+674)"
+                  - option "Nepal (+977)"
+                  - option "Netherlands (+31)"
+                  - option "New Caledonia (+687)"
+                  - option "New Zealand (+64)"
+                  - option "Nicaragua (+505)"
+                  - option "Niger (+227)"
+                  - option "Nigeria (+234)"
+                  - option "Niue (+683)"
+                  - option "North Macedonia (+389)"
+                  - option "Norway (+47)"
+                  - option "Oman (+968)"
+                  - option "Pakistan (+92)"
+                  - option "Palau (+680)"
+                  - option "Palestine, State of (+970)"
+                  - option "Panama (+507)"
+                  - option "Papua New Guinea (+675)"
+                  - option "Paraguay (+595)"
+                  - option "Peru (+51)"
+                  - option "Philippines (+63)"
+                  - option "Poland (+48)"
+                  - option "Portugal (+351)"
+                  - option "Qatar (+974)"
+                  - option "Réunion (+262)"
+                  - option "Romania (+40)"
+                  - option "Russia (+7)"
+                  - option "Rwanda (+250)"
+                  - option "Saint Barthélemy (+590)"
+                  - option "Samoa (+685)"
+                  - option "San Marino (+378)"
+                  - option "Sao Tome and Principe (+239)"
+                  - option "Saudi Arabia (+966)"
+                  - option "Senegal (+221)"
+                  - option "Serbia (+381)"
+                  - option "Seychelles (+248)"
+                  - option "Sierra Leone (+232)"
+                  - option "Singapore (+65)"
+                  - option "Slovakia (+421)"
+                  - option "Slovenia (+386)"
+                  - option "Solomon Islands (+677)"
+                  - option "Somalia (+252)"
+                  - option "South Africa (+27)"
+                  - option "South Sudan (+211)"
+                  - option "Spain (+34)"
+                  - option "Sri Lanka (+94)"
+                  - option "Sudan (+249)"
+                  - option "Suriname (+597)"
+                  - option "Sweden (+46)"
+                  - option "Switzerland (+41)"
+                  - option "Syria (+963)"
+                  - option "Taiwan (+886)"
+                  - option "Tajikistan (+992)"
+                  - option "Tanzania (+255)"
+                  - option "Thailand (+66)"
+                  - option "Timor-Leste (+670)"
+                  - option "Togo (+228)"
+                  - option "Tonga (+676)"
+                  - option "Trinidad and Tobago (+1)"
+                  - option "Tunisia (+216)"
+                  - option "Turkey (+90)"
+                  - option "Turkmenistan (+993)"
+                  - option "Tuvalu (+688)"
+                  - option "Uganda (+256)"
+                  - option "Ukraine (+380)"
+                  - option "United Arab Emirates (+971)"
+                  - option "United Kingdom (+44)"
+                  - option "United States (+1)"
+                  - option "Uruguay (+598)"
+                  - option "Uzbekistan (+998)"
+                  - option "Vanuatu (+678)"
+                  - option "Venezuela (+58)"
+                  - option "Vietnam (+84)"
+                  - option "Yemen (+967)"
+                  - option "Zambia (+260)"
+                  - option "Zimbabwe (+263)"
+                - textbox "Phone number" [ref=e452]
+            - generic [ref=e453]:
+              - generic [ref=e454]: Write your message *
+              - textbox "Write your message" [ref=e456]:
+                - /placeholder: Tell me about your project, question, or opportunity...
+            - button "Send Message" [ref=e458]
+  - contentinfo [ref=e464]:
+    - generic [ref=e465]:
+      - generic [ref=e466]:
+        - link "Arpit Dhiman Test • Automate • Improve" [ref=e467] [cursor=pointer]:
+          - /url: "#overview"
+          - generic [ref=e472]:
+            - paragraph [ref=e473]:
+              - text: Arpit
+              - generic [ref=e474]: Dhiman
+            - paragraph [ref=e475]: Test • Automate • Improve
+        - generic [ref=e476]:
+          - generic [ref=e477]:
+            - link "LinkedIn Profile - Arpit Dhiman QA" [ref=e478] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/arpit-dhiman
+            - link "GitHub Profile - Arpit Dhiman QA" [ref=e481] [cursor=pointer]:
+              - /url: https://github.com/dhimanarpit2-cyber
+            - link "Facebook" [ref=e484] [cursor=pointer]:
+              - /url: https://www.facebook.com/dhiman.arpit/
+            - link "Instagram" [ref=e487] [cursor=pointer]:
+              - /url: https://www.instagram.com/arpit_dhiman_/
+          - link "Back to top" [ref=e493] [cursor=pointer]:
+            - /url: "#overview"
+      - generic [ref=e498]:
+        - paragraph [ref=e499]: © 2026 Arpit Dhiman. All rights reserved.
+        - navigation "Footer navigation" [ref=e500]:
+          - list [ref=e501]:
+            - listitem [ref=e502]:
+              - link "About" [ref=e503] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e504]:
+              - link "Skills" [ref=e505] [cursor=pointer]:
+                - /url: "#skills"
+            - listitem [ref=e506]:
+              - link "Projects" [ref=e507] [cursor=pointer]:
+                - /url: "#projects"
+            - listitem [ref=e508]:
+              - link "Timeline" [ref=e509] [cursor=pointer]:
+                - /url: "#timeline"
+            - listitem [ref=e510]:
+              - link "Contact" [ref=e511] [cursor=pointer]:
+                - /url: "#contact"
+  - alert [ref=e512]
